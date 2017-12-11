@@ -1,8 +1,8 @@
 {
-    "name": "tomconte/azure-iot-hub",
+    "name": "guiihlopes/azure-iot-hub",
     "autoload": {
-        "psr-0" : {
-            "AzureIoTHub" : "src"
+        "psr-0": {
+            "AzureIoTHub": "src"
         }
     },
     "description": "Simple library to send data to Azure IoT Hub",
@@ -16,6 +16,10 @@
         {
             "name": "Thomas Conté",
             "email": "thomas@conte.com"
+        },
+        {
+            "name": "Guilherme Lopes",
+            "email": "golopes@outlook.com"
         }
     ]
 }
