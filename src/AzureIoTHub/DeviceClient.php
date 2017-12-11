@@ -87,7 +87,7 @@ class DeviceClient
         ]);
 
         $response = $client->request('POST', $uri, [
-            'body' => $data,
+            'form_params' => $data,
             'headers' => [
                 'Authorization' => $this->SAS,
             ]

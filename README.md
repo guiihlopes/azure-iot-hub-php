@@ -7,11 +7,11 @@ Currently the library is [hosted on my GitHub account](https://github.com/tomcon
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tomconte/azure-iot-hub-php"
+            "url": "https://github.com/guiihlopes/azure-iot-hub-php"
         }
     ],
     "require": {
-        "tomconte/azure-iot-hub": "dev-master"
+        "guiihlopes/azure-iot-hub": "dev-master"
     }
 }
 ~~~
